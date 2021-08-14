@@ -1,0 +1,9 @@
+E:\CSharpMS\CSharpBasics\day16_07Client\bin\Debug\day16_07Client.exe.config
+E:\CSharpMS\CSharpBasics\day16_07Client\bin\Debug\day16_07Client.exe
+E:\CSharpMS\CSharpBasics\day16_07Client\bin\Debug\day16_07Client.pdb
+E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.csprojResolveAssemblyReference.cache
+E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.Properties.Resources.resources
+E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.csproj.GenerateResource.Cache
+E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.exe
+E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.pdb
+E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.FrmClient.resources

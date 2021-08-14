@@ -1,0 +1,6 @@
+E:\CSharpMS\CSharpBasics\day11_10键值对集合\bin\Debug\day11_10键值对集合.exe.config
+E:\CSharpMS\CSharpBasics\day11_10键值对集合\bin\Debug\day11_10键值对集合.exe
+E:\CSharpMS\CSharpBasics\day11_10键值对集合\bin\Debug\day11_10键值对集合.pdb
+E:\CSharpMS\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集合.exe
+E:\CSharpMS\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集合.pdb
+E:\CSharpMS\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集合.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\bin\Debug\day22_14窗体传值.exe.config
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\bin\Debug\day22_14窗体传值.exe
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\bin\Debug\day22_14窗体传值.pdb
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.csprojResolveAssemblyReference.cache
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.Form1.resources
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.Form2.resources
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.Properties.Resources.resources
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.csproj.GenerateResource.Cache
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.exe
+E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.pdb

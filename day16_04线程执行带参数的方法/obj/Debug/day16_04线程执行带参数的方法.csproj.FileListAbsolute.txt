@@ -1,0 +1,9 @@
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\bin\Debug\day16_04线程执行带参数的方法.exe.config
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\bin\Debug\day16_04线程执行带参数的方法.exe
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\bin\Debug\day16_04线程执行带参数的方法.pdb
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.csprojResolveAssemblyReference.cache
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.Form1.resources
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.Properties.Resources.resources
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.csproj.GenerateResource.Cache
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.exe
+E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.pdb

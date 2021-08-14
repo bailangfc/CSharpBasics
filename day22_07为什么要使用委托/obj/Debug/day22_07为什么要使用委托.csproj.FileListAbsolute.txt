@@ -1,0 +1,5 @@
+E:\CSharpMS\CSharpBasics\day22_07为什么要使用委托\bin\Debug\day22_07为什么要使用委托.exe.config
+E:\CSharpMS\CSharpBasics\day22_07为什么要使用委托\bin\Debug\day22_07为什么要使用委托.exe
+E:\CSharpMS\CSharpBasics\day22_07为什么要使用委托\bin\Debug\day22_07为什么要使用委托.pdb
+E:\CSharpMS\CSharpBasics\day22_07为什么要使用委托\obj\Debug\day22_07为什么要使用委托.exe
+E:\CSharpMS\CSharpBasics\day22_07为什么要使用委托\obj\Debug\day22_07为什么要使用委托.pdb

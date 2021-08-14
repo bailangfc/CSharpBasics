@@ -1,0 +1,5 @@
+E:\CSharpMS\CSharpBasics\day22_12lamda表达式\bin\Debug\day22_12lamda表达式.exe.config
+E:\CSharpMS\CSharpBasics\day22_12lamda表达式\bin\Debug\day22_12lamda表达式.exe
+E:\CSharpMS\CSharpBasics\day22_12lamda表达式\bin\Debug\day22_12lamda表达式.pdb
+E:\CSharpMS\CSharpBasics\day22_12lamda表达式\obj\Debug\day22_12lamda表达式.exe
+E:\CSharpMS\CSharpBasics\day22_12lamda表达式\obj\Debug\day22_12lamda表达式.pdb

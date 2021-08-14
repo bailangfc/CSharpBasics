@@ -1,0 +1,6 @@
+E:\CSharpMS\CSharpBasics\day06_04枚举类型与string以及int类型的转换\bin\Debug\day06_04枚举类型与string以及int类型的转换.exe.config
+E:\CSharpMS\CSharpBasics\day06_04枚举类型与string以及int类型的转换\bin\Debug\day06_04枚举类型与string以及int类型的转换.exe
+E:\CSharpMS\CSharpBasics\day06_04枚举类型与string以及int类型的转换\bin\Debug\day06_04枚举类型与string以及int类型的转换.pdb
+E:\CSharpMS\CSharpBasics\day06_04枚举类型与string以及int类型的转换\obj\Debug\day06_04枚举类型与string以及int类型的转换.csprojResolveAssemblyReference.cache
+E:\CSharpMS\CSharpBasics\day06_04枚举类型与string以及int类型的转换\obj\Debug\day06_04枚举类型与string以及int类型的转换.exe
+E:\CSharpMS\CSharpBasics\day06_04枚举类型与string以及int类型的转换\obj\Debug\day06_04枚举类型与string以及int类型的转换.pdb

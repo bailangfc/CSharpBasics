@@ -1,0 +1,6 @@
+E:\CSharpMS\CSharpBasics\day11_13简繁转换\bin\Debug\day11_13简繁转换.exe.config
+E:\CSharpMS\CSharpBasics\day11_13简繁转换\bin\Debug\day11_13简繁转换.exe
+E:\CSharpMS\CSharpBasics\day11_13简繁转换\bin\Debug\day11_13简繁转换.pdb
+E:\CSharpMS\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.csprojResolveAssemblyReference.cache
+E:\CSharpMS\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.exe
+E:\CSharpMS\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.pdb
