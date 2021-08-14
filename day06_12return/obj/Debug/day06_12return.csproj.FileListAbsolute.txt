@@ -1,0 +1,6 @@
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_12return\bin\Debug\day06_12return.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_12return\bin\Debug\day06_12return.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_12return\bin\Debug\day06_12return.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_12return\obj\Debug\day06_12return.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_12return\obj\Debug\day06_12return.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_12return\obj\Debug\day06_12return.pdb
