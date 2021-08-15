@@ -3,3 +3,8 @@ E:\CSharpMS\CSharpBasics\day22_09匿名函数\bin\Debug\day22_09匿名函数.exe
 E:\CSharpMS\CSharpBasics\day22_09匿名函数\bin\Debug\day22_09匿名函数.pdb
 E:\CSharpMS\CSharpBasics\day22_09匿名函数\obj\Debug\day22_09匿名函数.exe
 E:\CSharpMS\CSharpBasics\day22_09匿名函数\obj\Debug\day22_09匿名函数.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_09匿名函数\bin\Debug\day22_09匿名函数.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_09匿名函数\bin\Debug\day22_09匿名函数.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_09匿名函数\bin\Debug\day22_09匿名函数.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_09匿名函数\obj\Debug\day22_09匿名函数.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_09匿名函数\obj\Debug\day22_09匿名函数.pdb

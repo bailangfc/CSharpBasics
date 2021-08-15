@@ -4,3 +4,9 @@ E:\CSharpMS\CSharpBasics\day06_03枚举的练习\bin\Debug\day06_03枚举的练�
 E:\CSharpMS\CSharpBasics\day06_03枚举的练习\obj\Debug\day06_03枚举的练习.csprojResolveAssemblyReference.cache
 E:\CSharpMS\CSharpBasics\day06_03枚举的练习\obj\Debug\day06_03枚举的练习.exe
 E:\CSharpMS\CSharpBasics\day06_03枚举的练习\obj\Debug\day06_03枚举的练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_03枚举的练习\bin\Debug\day06_03枚举的练习.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_03枚举的练习\bin\Debug\day06_03枚举的练习.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_03枚举的练习\bin\Debug\day06_03枚举的练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_03枚举的练习\obj\Debug\day06_03枚举的练习.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_03枚举的练习\obj\Debug\day06_03枚举的练习.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day06_03枚举的练习\obj\Debug\day06_03枚举的练习.pdb

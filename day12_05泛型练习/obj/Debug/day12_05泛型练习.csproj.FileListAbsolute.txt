@@ -4,3 +4,9 @@ E:\CSharpMS\CSharpBasics\day12_05泛型练习\bin\Debug\day12_05泛型练习.pdb
 E:\CSharpMS\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.csprojResolveAssemblyReference.cache
 E:\CSharpMS\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.exe
 E:\CSharpMS\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\bin\Debug\day12_05泛型练习.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\bin\Debug\day12_05泛型练习.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\bin\Debug\day12_05泛型练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.pdb

@@ -4,3 +4,9 @@ E:\CSharpMS\CSharpBasics\day22_15多播委托\bin\Debug\day22_15多播委托.pdb
 E:\CSharpMS\CSharpBasics\day22_15多播委托\obj\Debug\day22_15多播委托.csprojResolveAssemblyReference.cache
 E:\CSharpMS\CSharpBasics\day22_15多播委托\obj\Debug\day22_15多播委托.exe
 E:\CSharpMS\CSharpBasics\day22_15多播委托\obj\Debug\day22_15多播委托.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_15多播委托\bin\Debug\day22_15多播委托.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_15多播委托\bin\Debug\day22_15多播委托.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_15多播委托\bin\Debug\day22_15多播委托.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_15多播委托\obj\Debug\day22_15多播委托.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_15多播委托\obj\Debug\day22_15多播委托.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_15多播委托\obj\Debug\day22_15多播委托.pdb

@@ -4,3 +4,9 @@ E:\CSharpMS\CSharpBasics\File类\bin\Debug\File类.exe
 E:\CSharpMS\CSharpBasics\File类\bin\Debug\File类.pdb
 E:\CSharpMS\CSharpBasics\File类\obj\Debug\File类.exe
 E:\CSharpMS\CSharpBasics\File类\obj\Debug\File类.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\File类\bin\Debug\File类.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\File类\bin\Debug\File类.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\File类\bin\Debug\File类.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\File类\obj\Debug\day11_15File类.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\File类\obj\Debug\File类.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\File类\obj\Debug\File类.pdb

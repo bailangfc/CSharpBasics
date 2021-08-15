@@ -7,3 +7,12 @@ E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.csproj.Generate
 E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.exe
 E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.pdb
 E:\CSharpMS\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.FrmClient.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\bin\Debug\day16_07Client.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\bin\Debug\day16_07Client.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\bin\Debug\day16_07Client.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.FrmClient.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.Properties.Resources.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.csproj.GenerateResource.Cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_07Client\obj\Debug\day16_07Client.pdb

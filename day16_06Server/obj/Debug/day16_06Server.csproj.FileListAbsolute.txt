@@ -7,3 +7,12 @@ E:\CSharpMS\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.csproj.Generate
 E:\CSharpMS\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.exe
 E:\CSharpMS\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.pdb
 E:\CSharpMS\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.FrmServer.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\bin\Debug\day16_06Server.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\bin\Debug\day16_06Server.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\bin\Debug\day16_06Server.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.FrmServer.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.Properties.Resources.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.csproj.GenerateResource.Cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_06Server\obj\Debug\day16_06Server.pdb

@@ -8,3 +8,13 @@ E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.Pro
 E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.csproj.GenerateResource.Cache
 E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.exe
 E:\CSharpMS\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\bin\Debug\day22_14窗体传值.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\bin\Debug\day22_14窗体传值.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\bin\Debug\day22_14窗体传值.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.Form1.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.Form2.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.Properties.Resources.resources
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.csproj.GenerateResource.Cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_14窗体传值\obj\Debug\day22_14窗体传值.pdb

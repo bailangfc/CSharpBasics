@@ -7,3 +7,6 @@ E:\CSharpMS\CSharpBasics\Path类\obj\Debug\day11_14Path类.csprojResolveAssembly
 C:\Users\bailangfc\Source\Repos\CSharpBasics\Path类\bin\Debug\Path类.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\Path类\obj\Debug\Path类.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\Path类\obj\Debug\Path类.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\Path类\bin\Debug\Path类.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\Path类\bin\Debug\Path类.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\Path类\obj\Debug\day11_14Path类.csprojResolveAssemblyReference.cache
