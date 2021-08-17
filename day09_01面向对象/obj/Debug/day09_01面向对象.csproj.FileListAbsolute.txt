@@ -1,0 +1,6 @@
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_01面向对象\bin\Debug\day09_01面向对象.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_01面向对象\bin\Debug\day09_01面向对象.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_01面向对象\bin\Debug\day09_01面向对象.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_01面向对象\obj\Debug\day09_01面向对象.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_01面向对象\obj\Debug\day09_01面向对象.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_01面向对象\obj\Debug\day09_01面向对象.pdb
