@@ -97,6 +97,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_09继承练习", "day
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_10关键字new", "day10_10关键字new\day10_10关键字new.csproj", "{EA483524-2A83-427F-980C-E83809ADDF29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day11_02里氏转换", "day11_02里氏转换\day11_02里氏转换.csproj", "{156C8D3E-5032-4BE3-BC81-F67A88046A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day11_03里氏转换练习", "day11_03里氏转换练习\day11_03里氏转换练习.csproj", "{335F5653-B3AC-4E1F-B90B-354DE9AB9883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +295,14 @@ Global
 		{EA483524-2A83-427F-980C-E83809ADDF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA483524-2A83-427F-980C-E83809ADDF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA483524-2A83-427F-980C-E83809ADDF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156C8D3E-5032-4BE3-BC81-F67A88046A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156C8D3E-5032-4BE3-BC81-F67A88046A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156C8D3E-5032-4BE3-BC81-F67A88046A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156C8D3E-5032-4BE3-BC81-F67A88046A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335F5653-B3AC-4E1F-B90B-354DE9AB9883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335F5653-B3AC-4E1F-B90B-354DE9AB9883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335F5653-B3AC-4E1F-B90B-354DE9AB9883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335F5653-B3AC-4E1F-B90B-354DE9AB9883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
