@@ -38,7 +38,7 @@ namespace day11_04protected访问修饰符
     {
         public void Test()
         {
-            _name
+            //_name
         }
     }
 }

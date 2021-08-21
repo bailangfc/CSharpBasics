@@ -1,0 +1,6 @@
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_13电脑、优盘、移动硬盘、MP3\bin\Debug\day12_13电脑、优盘、移动硬盘、MP3.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_13电脑、优盘、移动硬盘、MP3\bin\Debug\day12_13电脑、优盘、移动硬盘、MP3.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_13电脑、优盘、移动硬盘、MP3\bin\Debug\day12_13电脑、优盘、移动硬盘、MP3.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_13电脑、优盘、移动硬盘、MP3\obj\Debug\day12_13电脑、优盘、移动硬盘、MP3.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_13电脑、优盘、移动硬盘、MP3\obj\Debug\day12_13电脑、优盘、移动硬盘、MP3.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_13电脑、优盘、移动硬盘、MP3\obj\Debug\day12_13电脑、优盘、移动硬盘、MP3.pdb

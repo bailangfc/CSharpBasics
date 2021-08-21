@@ -10,7 +10,7 @@ namespace day12_09多态
     {
         static void Main(string[] args)
         {
-            Person[] pers = new Person[8];
+            //实现多态的3种方法：1、虚方法；2、抽象类；3、接口
             Chinese cn1 = new Chinese("李梅");
             Chinese cn2 = new Chinese("韩磊");
             Janpanese j1 = new Janpanese("小导字");
@@ -19,8 +19,30 @@ namespace day12_09多态
             Korea k2 = new Korea("金秀儿");
             American a1 = new American("汤姆");
             American a2 = new American("吉姆");
+            Person[] pers = { cn1, cn2, j1, j2, k1, k2, a1, a2,new English("") ,new English("") };
+            for (int i = 0; i < pers.Length; i++)
+            {
+                //if (pers[i] is Chinese)
+                //{
+                //    ((Chinese)pers[i]).SayHello();
+                //}
+                //else if (pers[i] is Janpanese)
+                //{
+                //    ((Janpanese)pers[i]).SayHello();
+                //}
+                //else if (pers[i] is Korea)
+                //{
+                //    ((Korea)pers[i]).SayHello();
+                //}
+                //else
+                //{
+                //    ((American)pers[i]).SayHello();
+                //}
 
-             
+                pers[i].SayHello();
+            }
+
+            Console.ReadKey();
 
 
 
@@ -51,7 +73,7 @@ namespace day12_09多态
             this.Name = name;
         }
 
-        public void SayHello()
+        public virtual void SayHello()
         {
             Console.WriteLine("我是人类");
         }
@@ -59,14 +81,14 @@ namespace day12_09多态
 
     public class Chinese : Person
     {
-        public Chinese(string name):base(name)
+        public Chinese(string name) : base(name)
         {
 
         }
 
-        public void SayHello()
+        public override void SayHello()
         {
-            Console.WriteLine("我是中国人，我叫{0}",this.Name);
+            Console.WriteLine("我是中国人，我叫{0}", this.Name);
         }
     }
 
@@ -75,18 +97,18 @@ namespace day12_09多态
         public Janpanese(string name) : base(name)
         {
         }
-        public void SayHello()
+        public override void SayHello()
         {
-            Console.WriteLine("我是日本人，我叫{0}",this.Name);
+            Console.WriteLine("我是日本人，我叫{0}", this.Name);
         }
-    } 
+    }
 
     public class Korea : Person
     {
         public Korea(string name) : base(name)
         {
         }
-        public void SayHello()
+        public override void SayHello()
         {
             Console.WriteLine("我是韩国人，我叫{0}", this.Name);
         }
@@ -97,9 +119,21 @@ namespace day12_09多态
         public American(string name) : base(name)
         {
         }
-        public void SayHello()
+        public override void SayHello()
         {
             Console.WriteLine("我是美国人，我叫{0}", this.Name);
+        }
+    }
+
+    public class English : Person
+    {
+        public English(string name) : base(name)
+        {
+
+        }
+        public override void SayHello()
+        {
+            Console.WriteLine("我是英国人");
         }
     }
 }
