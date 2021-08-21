@@ -10,10 +10,10 @@ namespace day06_12return
     {
         static void Main(string[] args)
         {
-            while (true)
+            //while (true)
             {
                 Console.WriteLine("hello world");
-                return;
+                //return;
             }
             Console.WriteLine("hello two");
             Console.ReadKey();

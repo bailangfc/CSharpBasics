@@ -31,7 +31,7 @@ namespace day09_04面向对象练习
             this.Math = math;
         }
 
-        public Person(string name,int age,char gender):this("张三",55,'男',0,0,0)
+        public Person(string name,int age,char gender):this("",0,'男',0,0,0)
         {
             //this.Name = name;
             //this.Age = age;

@@ -83,6 +83,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day09_04面向对象练习"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day09_05练习", "day09_05练习\day09_05练习.csproj", "{D7F1D305-237C-4C15-B003-9A4B65BC3723}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_02命名空间", "day10_02命名空间\day10_02命名空间.csproj", "{C9AAE6FB-61AC-48C4-B256-1A842916F861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_04字符串", "day10_04字符串\day10_04字符串.csproj", "{B8A8032D-AC25-463D-A595-080E35FDA292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_06字符串的各种方法", "day10_06字符串的各种方法\day10_06字符串的各种方法.csproj", "{D9280EAD-8C71-4D4E-ABC7-1CF264148913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_07字符串的练习", "day10_07字符串的练习\day10_07字符串的练习.csproj", "{684B3B1B-31E1-4F1F-8B49-5C10F662AA43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_08继承", "day10_08继承\day10_08继承.csproj", "{44FFEE4D-BB1D-456F-A554-8E4E2CF7DC7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_09继承练习", "day10_09继承练习\day10_09继承练习.csproj", "{084A2762-E001-4F07-AFF1-DCE0B8E941D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day10_10关键字new", "day10_10关键字new\day10_10关键字new.csproj", "{EA483524-2A83-427F-980C-E83809ADDF29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +263,34 @@ Global
 		{D7F1D305-237C-4C15-B003-9A4B65BC3723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7F1D305-237C-4C15-B003-9A4B65BC3723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7F1D305-237C-4C15-B003-9A4B65BC3723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AAE6FB-61AC-48C4-B256-1A842916F861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AAE6FB-61AC-48C4-B256-1A842916F861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AAE6FB-61AC-48C4-B256-1A842916F861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AAE6FB-61AC-48C4-B256-1A842916F861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A8032D-AC25-463D-A595-080E35FDA292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A8032D-AC25-463D-A595-080E35FDA292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A8032D-AC25-463D-A595-080E35FDA292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A8032D-AC25-463D-A595-080E35FDA292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9280EAD-8C71-4D4E-ABC7-1CF264148913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9280EAD-8C71-4D4E-ABC7-1CF264148913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9280EAD-8C71-4D4E-ABC7-1CF264148913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9280EAD-8C71-4D4E-ABC7-1CF264148913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684B3B1B-31E1-4F1F-8B49-5C10F662AA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684B3B1B-31E1-4F1F-8B49-5C10F662AA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684B3B1B-31E1-4F1F-8B49-5C10F662AA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684B3B1B-31E1-4F1F-8B49-5C10F662AA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FFEE4D-BB1D-456F-A554-8E4E2CF7DC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FFEE4D-BB1D-456F-A554-8E4E2CF7DC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FFEE4D-BB1D-456F-A554-8E4E2CF7DC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FFEE4D-BB1D-456F-A554-8E4E2CF7DC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084A2762-E001-4F07-AFF1-DCE0B8E941D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084A2762-E001-4F07-AFF1-DCE0B8E941D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084A2762-E001-4F07-AFF1-DCE0B8E941D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084A2762-E001-4F07-AFF1-DCE0B8E941D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA483524-2A83-427F-980C-E83809ADDF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA483524-2A83-427F-980C-E83809ADDF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA483524-2A83-427F-980C-E83809ADDF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA483524-2A83-427F-980C-E83809ADDF29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

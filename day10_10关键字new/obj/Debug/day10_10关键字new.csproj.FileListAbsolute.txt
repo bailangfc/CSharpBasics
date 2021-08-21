@@ -1,0 +1,6 @@
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_10关键字new\bin\Debug\day10_10关键字new.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_10关键字new\bin\Debug\day10_10关键字new.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_10关键字new\bin\Debug\day10_10关键字new.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_10关键字new\obj\Debug\day10_10关键字new.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_10关键字new\obj\Debug\day10_10关键字new.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_10关键字new\obj\Debug\day10_10关键字new.pdb

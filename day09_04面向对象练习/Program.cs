@@ -12,6 +12,7 @@ namespace day09_04面向对象练习
         {
             //Person p1 = new Person("小明",33,'男',45,55,43);
             Person p2 = new Person("小王", 44, '女');
+            p2.Say();
             //p1.Name = "小明";
             //p1.Age = 22;
             //p1.Gender = '男';

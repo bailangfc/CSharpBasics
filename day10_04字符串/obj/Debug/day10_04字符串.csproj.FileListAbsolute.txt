@@ -1,0 +1,6 @@
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_04字符串\bin\Debug\day10_04字符串.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_04字符串\bin\Debug\day10_04字符串.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_04字符串\bin\Debug\day10_04字符串.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_04字符串\obj\Debug\day10_04字符串.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_04字符串\obj\Debug\day10_04字符串.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_04字符串\obj\Debug\day10_04字符串.csprojResolveAssemblyReference.cache

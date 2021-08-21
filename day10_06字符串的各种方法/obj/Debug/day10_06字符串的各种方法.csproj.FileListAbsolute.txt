@@ -1,0 +1,6 @@
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_06字符串的各种方法\bin\Debug\day10_06字符串的各种方法.exe.config
+C:\Users\bailangfc\source\repos\CSharpBasics\day10_06字符串的各种方法\bin\Debug\day10_06字符串的各种方法.exe
+C:\Users\bailangfc\source\repos\CSharpBasics\day10_06字符串的各种方法\bin\Debug\day10_06字符串的各种方法.pdb
+C:\Users\bailangfc\source\repos\CSharpBasics\day10_06字符串的各种方法\obj\Debug\day10_06字符串的各种方法.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\source\repos\CSharpBasics\day10_06字符串的各种方法\obj\Debug\day10_06字符串的各种方法.exe
+C:\Users\bailangfc\source\repos\CSharpBasics\day10_06字符串的各种方法\obj\Debug\day10_06字符串的各种方法.pdb

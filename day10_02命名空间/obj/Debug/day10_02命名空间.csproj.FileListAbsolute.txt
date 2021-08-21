@@ -1,0 +1,8 @@
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_02命名空间\bin\Debug\day10_02命名空间.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_02命名空间\bin\Debug\day10_02命名空间.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_02命名空间\bin\Debug\day10_02命名空间.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_02命名空间\bin\Debug\day09_04面向对象练习.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_02命名空间\bin\Debug\day09_04面向对象练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_02命名空间\obj\Debug\day10_02命名空间.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_02命名空间\obj\Debug\day10_02命名空间.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_02命名空间\obj\Debug\day10_02命名空间.pdb

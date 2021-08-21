@@ -1,0 +1,6 @@
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_08继承\bin\Debug\day10_08继承.exe.config
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_08继承\obj\Debug\day10_08继承.csprojResolveAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_08继承\bin\Debug\day10_08继承.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_08继承\bin\Debug\day10_08继承.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_08继承\obj\Debug\day10_08继承.exe
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day10_08继承\obj\Debug\day10_08继承.pdb
