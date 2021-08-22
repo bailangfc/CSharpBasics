@@ -10,6 +10,13 @@ namespace day13_17GUID
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Guid.NewGuid().ToString());
+            Console.WriteLine(Guid.NewGuid().ToString());
+            Console.WriteLine(Guid.NewGuid().ToString());
+            Console.WriteLine(Guid.NewGuid().ToString());
+            Console.WriteLine(Guid.NewGuid().ToString());
+            Console.WriteLine(Guid.NewGuid().ToString());
+            Console.ReadKey();
         }
     }
 }
