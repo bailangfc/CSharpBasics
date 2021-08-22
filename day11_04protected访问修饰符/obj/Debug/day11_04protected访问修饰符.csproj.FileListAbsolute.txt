@@ -1,6 +1,6 @@
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_04protected访问修饰符\bin\Debug\day11_04protected访问修饰符.exe.config
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_04protected访问修饰符\obj\Debug\day11_04protected访问修饰符.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_04protected访问修饰符\bin\Debug\day11_04protected访问修饰符.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_04protected访问修饰符\bin\Debug\day11_04protected访问修饰符.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_04protected访问修饰符\obj\Debug\day11_04protected访问修饰符.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_04protected访问修饰符\obj\Debug\day11_04protected访问修饰符.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_04protected访问修饰符\obj\Debug\day11_04protected访问修饰符.csproj.CoreCompileInputs.cache

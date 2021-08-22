@@ -1,6 +1,6 @@
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_12params可变参数\bin\Debug\day07_12params可变参数.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_12params可变参数\bin\Debug\day07_12params可变参数.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_12params可变参数\bin\Debug\day07_12params可变参数.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_12params可变参数\obj\Debug\day07_12params可变参数.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_12params可变参数\obj\Debug\day07_12params可变参数.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_12params可变参数\obj\Debug\day07_12params可变参数.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_12params可变参数\obj\Debug\day07_12params可变参数.csproj.CoreCompileInputs.cache

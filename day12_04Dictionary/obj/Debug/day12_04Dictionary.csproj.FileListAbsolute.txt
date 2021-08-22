@@ -7,6 +7,7 @@ E:\CSharpMS\CSharpBasics\day12_04Dictionary\obj\Debug\day12_04Dictionary.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_04Dictionary\bin\Debug\day12_04Dictionary.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_04Dictionary\bin\Debug\day12_04Dictionary.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_04Dictionary\bin\Debug\day12_04Dictionary.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_04Dictionary\obj\Debug\day12_04Dictionary.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_04Dictionary\obj\Debug\day12_04Dictionary.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_04Dictionary\obj\Debug\day12_04Dictionary.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_04Dictionary\obj\Debug\day12_04Dictionary.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_04Dictionary\obj\Debug\day12_04Dictionary.csproj.CoreCompileInputs.cache

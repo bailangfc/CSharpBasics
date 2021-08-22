@@ -7,6 +7,7 @@ E:\CSharpMS\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_13简繁转换\bin\Debug\day11_13简繁转换.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_13简繁转换\bin\Debug\day11_13简繁转换.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_13简繁转换\bin\Debug\day11_13简繁转换.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_13简繁转换\obj\Debug\day11_13简繁转换.csproj.CoreCompileInputs.cache

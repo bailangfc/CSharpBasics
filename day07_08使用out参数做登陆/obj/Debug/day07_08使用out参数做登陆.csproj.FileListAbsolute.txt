@@ -3,3 +3,5 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_08使用out参数做登陆\bi
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_08使用out参数做登陆\bin\Debug\day07_08使用out参数做登陆.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_08使用out参数做登陆\obj\Debug\day07_08使用out参数做登陆.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_08使用out参数做登陆\obj\Debug\day07_08使用out参数做登陆.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_08使用out参数做登陆\obj\Debug\day07_08使用out参数做登陆.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_08使用out参数做登陆\obj\Debug\day07_08使用out参数做登陆.csproj.CoreCompileInputs.cache

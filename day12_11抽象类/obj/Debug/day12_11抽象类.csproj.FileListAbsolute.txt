@@ -1,6 +1,6 @@
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_11抽象类\bin\Debug\day12_11抽象类.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_11抽象类\bin\Debug\day12_11抽象类.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_11抽象类\bin\Debug\day12_11抽象类.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_11抽象类\obj\Debug\day12_11抽象类.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_11抽象类\obj\Debug\day12_11抽象类.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_11抽象类\obj\Debug\day12_11抽象类.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_11抽象类\obj\Debug\day12_11抽象类.csproj.CoreCompileInputs.cache

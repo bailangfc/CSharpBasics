@@ -1,6 +1,6 @@
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_09多态\bin\Debug\day12_09多态.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_09多态\bin\Debug\day12_09多态.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_09多态\bin\Debug\day12_09多态.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_09多态\obj\Debug\day12_09多态.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_09多态\obj\Debug\day12_09多态.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_09多态\obj\Debug\day12_09多态.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_09多态\obj\Debug\day12_09多态.csproj.CoreCompileInputs.cache

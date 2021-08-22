@@ -1,6 +1,6 @@
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_09自己动手写tryparse\bin\Debug\day07_09自己动手写tryparse.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_09自己动手写tryparse\bin\Debug\day07_09自己动手写tryparse.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_09自己动手写tryparse\bin\Debug\day07_09自己动手写tryparse.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_09自己动手写tryparse\obj\Debug\day07_09自己动手写tryparse.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_09自己动手写tryparse\obj\Debug\day07_09自己动手写tryparse.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_09自己动手写tryparse\obj\Debug\day07_09自己动手写tryparse.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_09自己动手写tryparse\obj\Debug\day07_09自己动手写tryparse.csproj.CoreCompileInputs.cache

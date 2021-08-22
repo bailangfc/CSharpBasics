@@ -1,6 +1,6 @@
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_03判断闰年\bin\Debug\day07_03判断闰年.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_03判断闰年\bin\Debug\day07_03判断闰年.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_03判断闰年\bin\Debug\day07_03判断闰年.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_03判断闰年\obj\Debug\day07_03判断闰年.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_03判断闰年\obj\Debug\day07_03判断闰年.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_03判断闰年\obj\Debug\day07_03判断闰年.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_03判断闰年\obj\Debug\day07_03判断闰年.csproj.CoreCompileInputs.cache

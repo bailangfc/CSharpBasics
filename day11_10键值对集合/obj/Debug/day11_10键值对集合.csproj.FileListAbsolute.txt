@@ -7,6 +7,7 @@ E:\CSharpMS\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集�
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_10键值对集合\bin\Debug\day11_10键值对集合.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_10键值对集合\bin\Debug\day11_10键值对集合.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_10键值对集合\bin\Debug\day11_10键值对集合.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集合.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集合.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集合.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集合.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_10键值对集合\obj\Debug\day11_10键值对集合.csproj.CoreCompileInputs.cache

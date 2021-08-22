@@ -3,3 +3,4 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_10ref参数\bin\Debug\day07_1
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_10ref参数\bin\Debug\day07_10ref参数.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_10ref参数\obj\Debug\day07_10ref参数.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_10ref参数\obj\Debug\day07_10ref参数.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_10ref参数\obj\Debug\day07_10ref参数.csproj.CoreCompileInputs.cache

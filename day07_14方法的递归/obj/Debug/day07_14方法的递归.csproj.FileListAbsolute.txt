@@ -3,3 +3,4 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_14方法的递归\bin\Debug\d
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_14方法的递归\bin\Debug\day07_14方法的递归.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_14方法的递归\obj\Debug\day07_14方法的递归.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_14方法的递归\obj\Debug\day07_14方法的递归.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_14方法的递归\obj\Debug\day07_14方法的递归.csproj.CoreCompileInputs.cache

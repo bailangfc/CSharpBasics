@@ -3,3 +3,4 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_11ref练习\bin\Debug\day07_1
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_11ref练习\bin\Debug\day07_11ref练习.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_11ref练习\obj\Debug\day07_11ref练习.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_11ref练习\obj\Debug\day07_11ref练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day07_11ref练习\obj\Debug\day07_11ref练习.csproj.CoreCompileInputs.cache

@@ -3,3 +3,4 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_05练习\bin\Debug\day09_05�
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_05练习\bin\Debug\day09_05练习.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_05练习\obj\Debug\day09_05练习.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_05练习\obj\Debug\day09_05练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day09_05练习\obj\Debug\day09_05练习.csproj.CoreCompileInputs.cache

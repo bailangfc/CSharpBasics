@@ -10,9 +10,10 @@ E:\CSharpMS\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖�
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\bin\Debug\day16_05摇奖机应用程序.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\bin\Debug\day16_05摇奖机应用程序.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\bin\Debug\day16_05摇奖机应用程序.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.Form1.resources
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.Properties.Resources.resources
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.csproj.GenerateResource.Cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.csproj.CoreCompileInputs.cache

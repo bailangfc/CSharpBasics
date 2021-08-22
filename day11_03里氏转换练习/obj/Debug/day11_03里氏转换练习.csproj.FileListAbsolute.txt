@@ -1,6 +1,6 @@
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_03里氏转换练习\bin\Debug\day11_03里氏转换练习.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_03里氏转换练习\bin\Debug\day11_03里氏转换练习.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_03里氏转换练习\bin\Debug\day11_03里氏转换练习.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_03里氏转换练习\obj\Debug\day11_03里氏转换练习.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_03里氏转换练习\obj\Debug\day11_03里氏转换练习.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_03里氏转换练习\obj\Debug\day11_03里氏转换练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day11_03里氏转换练习\obj\Debug\day11_03里氏转换练习.csproj.CoreCompileInputs.cache

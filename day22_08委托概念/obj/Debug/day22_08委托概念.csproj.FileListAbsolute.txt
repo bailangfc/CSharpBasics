@@ -6,6 +6,7 @@ E:\CSharpMS\CSharpBasics\day22_08委托概念\obj\Debug\day22_08委托概念.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_08委托概念\bin\Debug\day22_08委托概念.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_08委托概念\bin\Debug\day22_08委托概念.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_08委托概念\bin\Debug\day22_08委托概念.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_08委托概念\obj\Debug\day22_08委托概念.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_08委托概念\obj\Debug\day22_08委托概念.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_08委托概念\obj\Debug\day22_08委托概念.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_08委托概念\obj\Debug\day22_08委托概念.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_08委托概念\obj\Debug\day22_08委托概念.csproj.CoreCompileInputs.cache

@@ -10,9 +10,10 @@ E:\CSharpMS\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\bin\Debug\day16_04线程执行带参数的方法.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\bin\Debug\day16_04线程执行带参数的方法.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\bin\Debug\day16_04线程执行带参数的方法.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.Form1.resources
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.Properties.Resources.resources
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.csproj.GenerateResource.Cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_04线程执行带参数的方法\obj\Debug\day16_04线程执行带参数的方法.csproj.CoreCompileInputs.cache

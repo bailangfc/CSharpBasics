@@ -7,6 +7,6 @@ E:\CSharpMS\CSharpBasics\day05_11for循环的3个练习\obj\Debug\day05_11for循
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day05_11for循环的3个练习\bin\Debug\day05_11for循环的3个练习.exe.config
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day05_11for循环的3个练习\bin\Debug\day05_11for循环的3个练习.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day05_11for循环的3个练习\bin\Debug\day05_11for循环的3个练习.pdb
-C:\Users\bailangfc\Source\Repos\CSharpBasics\day05_11for循环的3个练习\obj\Debug\day05_11for循环的3个练习.csprojResolveAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day05_11for循环的3个练习\obj\Debug\day05_11for循环的3个练习.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day05_11for循环的3个练习\obj\Debug\day05_11for循环的3个练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day05_11for循环的3个练习\obj\Debug\day05_11for循环的3个练习.csproj.CoreCompileInputs.cache

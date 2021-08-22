@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace day12_10多态练习
 {
-
-
     class Program
     {
         static void Main(string[] args)
@@ -20,7 +18,7 @@ namespace day12_10多态练习
             //du[0].Call();
             //Console.ReadKey();
 
-
+             
             //员工打卡
             Employee em = new Employee();
             Manager ma = new Manager();
@@ -43,17 +41,8 @@ namespace day12_10多态练习
                 }
             }
             Console.ReadKey();
-
-
-
-
         }
     }
-
-    
-
-
-
 
     public  class Employee
     {

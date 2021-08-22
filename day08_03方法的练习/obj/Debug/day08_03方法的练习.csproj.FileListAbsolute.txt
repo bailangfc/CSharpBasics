@@ -3,3 +3,5 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day08_03方法的练习\bin\Debug\d
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day08_03方法的练习\bin\Debug\day08_03方法的练习.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day08_03方法的练习\obj\Debug\day08_03方法的练习.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day08_03方法的练习\obj\Debug\day08_03方法的练习.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day08_03方法的练习\obj\Debug\day08_03方法的练习.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day08_03方法的练习\obj\Debug\day08_03方法的练习.csproj.CoreCompileInputs.cache

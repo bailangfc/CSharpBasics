@@ -8,3 +8,5 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_12lamda表达式\bin\Debug\da
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_12lamda表达式\bin\Debug\day22_12lamda表达式.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_12lamda表达式\obj\Debug\day22_12lamda表达式.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_12lamda表达式\obj\Debug\day22_12lamda表达式.pdb
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_12lamda表达式\obj\Debug\day22_12lamda表达式.csprojAssemblyReference.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day22_12lamda表达式\obj\Debug\day22_12lamda表达式.csproj.CoreCompileInputs.cache
