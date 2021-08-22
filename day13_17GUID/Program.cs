@@ -17,6 +17,7 @@ namespace day13_17GUID
             Console.WriteLine(Guid.NewGuid().ToString());
             Console.WriteLine(Guid.NewGuid().ToString());
             Console.ReadKey();
+            //test
         }
     }
 }
