@@ -10,3 +10,4 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\bin\Debug\day1
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.exe
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.csproj.CoreCompileInputs.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day12_05泛型练习\obj\Debug\day12_05泛型练习.csprojAssemblyReference.cache
