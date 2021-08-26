@@ -8,6 +8,13 @@ namespace day13_16超市收银系统
 {
     class ProductFather
     {
+
+        public string ID
+        {
+            get;
+            set;
+        }
+
         public  double Price
         {
             get;set;
@@ -18,11 +25,7 @@ namespace day13_16超市收银系统
             get;set;
         }
 
-        public string ID
-        {
-            get;
-            set;
-        }
+        
 
         public ProductFather(string id,double price,string Name)
         {
