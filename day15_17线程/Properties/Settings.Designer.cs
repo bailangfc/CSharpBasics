@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace day15_15进程.Properties
+namespace day15_17线程.Properties
 {
 
 

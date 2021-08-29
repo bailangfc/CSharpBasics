@@ -16,5 +16,19 @@ namespace day15_12字体和颜色对话框
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FontDialog fd = new FontDialog();
+            fd.ShowDialog();
+            textBox1.Font = fd.Font;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ColorDialog cd = new ColorDialog();
+            cd.ShowDialog();
+            textBox1.ForeColor = cd.Color;
+        }
     }
 }

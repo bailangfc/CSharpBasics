@@ -17,3 +17,4 @@ C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\D
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.pdb
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.csprojAssemblyReference.cache
 C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.csproj.CoreCompileInputs.cache
+C:\Users\bailangfc\Source\Repos\CSharpBasics\day16_05摇奖机应用程序\obj\Debug\day16_05摇奖机应用程序.FormTest.resources
