@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book>
+    <Name>C#入门指南</Name>
+    <Price>30</Price>
+    <Dec>经典图书</Dec>
+  </Book>
+
+  <Book>
+    <Name>西游记</Name>
+    <Price>50</Price>
+    <Dec>降妖除魔</Dec>
+  </Book>
+</Books>
